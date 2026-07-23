@@ -5,9 +5,9 @@ Python 3.10, Pytorch 1.13+, Cuda 10.2+,  <br>
 If anything goes wrong with the environment, please check requirements.txt for details.
 
 # Architecture and Details
-   ![image][(https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1_clean_render-1.png)
-   ![image][(https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu2_clean_render-1.png)
-   ![image][(https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu3_clean_render-1.png)
+   ![image](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1_clean_render-1.png)
+   ![image](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu2_clean_render-1.png)
+   ![image](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu3_clean_render-1.png)
    ![image]https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu3_clean_render-1.png
 
 # Results
