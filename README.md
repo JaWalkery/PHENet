@@ -11,7 +11,7 @@ If anything goes wrong with the environment, please check requirements for detai
 
 
 # Results
-<img src="(https://github.com/JaWalkery/PHENet/blob/main/PHENet/%E5%9B%BE%E7%89%87.png)"/>
+<img src="https://github.com/JaWalkery/PHENet/blob/main/PHENet/%E5%9B%BE%E7%89%87.png"/>
 
 
 # Data Preparation
