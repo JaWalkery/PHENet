@@ -1,4 +1,4 @@
-# CCSNet
+# PHENet
 This project provides the code and results for 'Pathology-Guided Heterogeneous Expert Network with Optimal Transport Alignment for Brain Tumor Segmentation',
 # Requirements
 Python 3.7+, Pytorch 1.13+, Cuda 10.2+,  <br>
