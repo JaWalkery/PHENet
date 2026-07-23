@@ -8,7 +8,7 @@ If anything goes wrong with the environment, please check requirements.txt for d
    ![image][(https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1_clean_render-1.png)
    ![image][(https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu2_clean_render-1.png)
    ![image][(https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu3_clean_render-1.png)
-https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu3_clean_render-1.png
+   ![image]https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu3_clean_render-1.png
 
 # Results
 <img src="https://github.com/JaWalkery/CCSNet-BrainTumor-Segmentation/blob/59d701eb4c84c285e523b46864978cfdc1861438/%E5%9B%BE%E7%89%871.png"/>
