@@ -5,9 +5,10 @@ Python 3.10, Pytorch 1.13+, Cuda 10.2+,  <br>
 If anything goes wrong with the environment, please check requirements.txt for details.
 
 # Architecture and Details
-   ![image](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)
-   ![image](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)
-   ![image](https://github.com/JaWalkery/CCSNet-BrainTumor-Segmentation/blob/cb11c972874f90a3cfd3bba0b22bc7898582c44f/%E5%9B%BE%E7%89%87.png)
+   ![image][(https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1_clean_render-1.png)
+   ![image][(https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu2_clean_render-1.png)
+   ![image][(https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1.pdf)](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu3_clean_render-1.png)
+
 
 # Results
 <img src="https://github.com/JaWalkery/CCSNet-BrainTumor-Segmentation/blob/59d701eb4c84c285e523b46864978cfdc1861438/%E5%9B%BE%E7%89%871.png"/>
