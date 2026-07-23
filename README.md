@@ -2,7 +2,7 @@
 This project provides the code and results for 'Pathology-Guided Heterogeneous Expert Network with Optimal Transport Alignment for Brain Tumor Segmentation',
 # Requirements
 Python 3.10, Pytorch 1.13+, Cuda 10.2+,  <br>
-If anything goes wrong with the environment, please check requirements.txt for details.
+If anything goes wrong with the environment, please check requirements for details.
 
 # Architecture and Details
    ![image](https://github.com/JaWalkery/PHENet/blob/main/PHENet/tu1_clean_render-1.png)
@@ -11,8 +11,8 @@ If anything goes wrong with the environment, please check requirements.txt for d
 
 
 # Results
-<img src="https://github.com/JaWalkery/CCSNet-BrainTumor-Segmentation/blob/59d701eb4c84c285e523b46864978cfdc1861438/%E5%9B%BE%E7%89%871.png"/>
-<img src="https://github.com/JaWalkery/CCSNet-BrainTumor-Segmentation/blob/59d701eb4c84c285e523b46864978cfdc1861438/%E5%9B%BE%E7%89%872.png"/>
+<img src="(https://github.com/JaWalkery/PHENet/blob/main/PHENet/%E5%9B%BE%E7%89%87.png
+)"/>
 
 
 # Data Preparation
@@ -24,8 +24,6 @@ modify the `train_root` `train_root` `save_path` path in `config.py` according t
 
     
 modify the `test_path` path in `config.py` according to your own data path.
-
-
 
 
 
